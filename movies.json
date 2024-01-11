@@ -1,0 +1,24 @@
+{
+    "movie": [
+        {
+            "name": "Vengadores: Endgame",
+            "price": 10,
+            "imageUrl": "https://estaticos-cdn.prensaiberica.es/clip/b4b98f46-3624-408e-8c42-0c8d85abdef8_alta-libre-aspect-ratio_default_0.jpg"
+        },
+        {
+            "name": "Joker",
+            "price": 12,
+            "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/joker-joaquin-phoenix-heroe-villano-1567430480.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*"
+        },
+        {
+            "name": "Toy Story 4",
+            "price": 8,
+            "imageUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F23F52B86446885A4A0579FBE1C70DCFF6220B70F27B6CD6B841EA1D49942974/scale?width=2880&aspectRatio=1.78&format=jpeg"
+        },
+        {
+            "name": "El rey león",
+            "price": 9,
+            "imageUrl": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/72DBE2549138B1D8B27B7F839E33F42703EBD9C0D443BF0A17811C9340B76B0C/scale?width=1200&aspectRatio=1.78&format=jpeg"
+        }
+    ]
+}
