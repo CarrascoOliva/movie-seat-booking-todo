@@ -117,3 +117,39 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+label {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="number"] {
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px 15px 5px 15px;
+  -moz-appearance: textfield;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+button#generate {
+  background-color: #fff;
+  border: 0;
+  border-radius: 5px;
+  color: #242333;
+  font-size: 14px;
+  padding: 5px 15px 5px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-bottom: 10px;
+}
+
+button#generate:hover {
+  background-color: #ddd;
+}
